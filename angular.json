@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bases"
+    }
+  },
+  "defaultProject": "bases",
+  "cli": {
+    "analytics": false
+  }
 }
